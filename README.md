@@ -19,3 +19,4 @@ tal que el comando queda "git push origin main"
 el comando "git commit" se emplea para hacer un commit con los nuevos cambios, se añade con "-m" el titulo del commit, adicionalmente se puede
 añadir otro "-m" para agregar una descripcion mas larga
 
+usa el comando "git init" para crear un repositorio nuevo, o inicializar uno ya existente
