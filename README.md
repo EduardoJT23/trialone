@@ -20,3 +20,7 @@ el comando "git commit" se emplea para hacer un commit con los nuevos cambios, s
 añadir otro "-m" para agregar una descripcion mas larga
 
 usa el comando "git init" para crear un repositorio nuevo, o inicializar uno ya existente
+
+"git branch" nos permite conocer las branches existentes en el repositorio
+
+"git checkout -b "nombre de la branch" " nos permite crear una nueva branch
